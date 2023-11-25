@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/temporary-repository/static/css/main.7acaea2f.css",
+    "main.js": "/temporary-repository/static/js/main.07d3183d.js",
+    "index.html": "/temporary-repository/index.html",
+    "main.7acaea2f.css.map": "/temporary-repository/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/temporary-repository/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
